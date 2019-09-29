@@ -23,7 +23,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-	// Edit to test out semaphore
+	// Edit to test the semaphore ci system
         return view('home');
     }
 }
